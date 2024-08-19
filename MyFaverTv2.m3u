@@ -21,8 +21,8 @@ https://stream1.freetv.fun/yan-dong-xin-wen-14.ctv
 https://stream1.freetv.fun/yan-dong-zhu-jiang-12.ctv
 #EXTINF:-1 tvg-name="TVBS新聞臺" tvg-id="" tvg-country="台湾" tvg-language="国語" tvg-logo="https://epg.pw/media/images/channel/2024/03/12/large/20240312220208325041_97.png" group-title="新聞",[HD]tvbs新闻
 https://stream1.freetv.fun/tvbsxin-wen-4.m3u8
-#EXTINF:-1 tvg-name="TVB無線衛星新聞" tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/img/logo/3_358.jpg" group-title="News",[BD]tvb无线新闻
-http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
+#EXTINF:-1 tvg-name="TVB無線衛星新聞" tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/img/logo/3_358.jpg" group-title="Hong Kong",[VGA]tvb无线新闻[geo-blocked]
+https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.ctv
 #EXTINF:-1 tvg-name="明珠台" tvg-id="368369" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721175931313789_88.png" group-title="電影",[BD]明珠
 https://stream1.freetv.fun/b805be4ead12b9db51ac0233d7fde0367602cd05ef2257a4d5700a47fd4338a4.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-id="368369" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721175931313789_88.png" group-title="電影",[BD]明珠
@@ -45,8 +45,6 @@ https://stream1.freetv.fun/cctv13-32.ctv
 https://stream1.freetv.fun/cctv13-55.ctv
 #EXTINF:-1 tvg-name="湖南衛視" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311111749846409_90.png" group-title="Generic",[BD]湖南卫视
 https://stream1.freetv.fun/hu-nan-wei-shi-80.ctv
-#EXTINF:-1 tvg-name="湖南衛視" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311111749846409_90.png" group-title="Generic",[BD]湖南卫视
-https://stream1.freetv.fun/hu-nan-wei-shi-57.ctv
 #EXTINF:-1 tvg-name="深圳衛視" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Generic",[BD]深圳卫视
 https://stream1.freetv.fun/shen-zhen-wei-shi-62.ctv
 #EXTINF:-1 tvg-name="深圳衛視" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Generic",[BD]深圳卫视
