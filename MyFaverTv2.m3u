@@ -36,6 +36,18 @@ https://stream1.freetv.fun/94d30760be1ed3b51cad3621fd2ac3d619fc2814fc9b90d29c644
 https://stream1.freetv.fun/02a84e717bde4c74530fa751aff6d340c4a1757f966a59bdc9f37751a121ce37.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Generic",[BD]cctv1
 https://stream1.freetv.fun/cctv1-2.ctv
+#EXTINF:-1 group-title="广东台" tvg-id="广州电视台综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512042230403.jpg",广州电视台综合频道
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=234cace79a853922dd89c29a3823c470&txTime=191825e8b1d
+#EXTINF:-1 group-title="广东台" tvg-id="广州电视台影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512042346693.jpg",广州电视台影视频道
+https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=d21675d873711660e1d3dfb8df430d78&txTime=19182b7e615
+#EXTINF:-1 group-title="广东台" tvg-id="广州电视台新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512042622928.jpg",广州电视台新闻频道
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=0901a0ee80ee6b60f0731399e0de6c5d&txTime=191825f0639
+#EXTINF:-1 group-title="广东台" tvg-id="广州竞赛频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512042736661.jpg",广州竞赛频道
+https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=59f483a17f5bf8f0cfba52b845141caa&txTime=19182c077bb
+#EXTINF:-1 group-title="广东台" tvg-id="广州电视台法治频道" tvg-logo="http://tv.haoqu99.com/d/file/2019/1115/small2dc32ee498f65382d2fb9dab733c4c47.jpg",广州电视台法治频道
+https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=6d133e82b12055c11f9d50dab61aeb9d&txTime=19182c08de9
+#EXTINF:-1 group-title="广东台" tvg-id="广州南国都市频道" tvg-logo="http://tv.haoqu99.com/d/file/2020/0608/small8794c1380bce42c709e47badc86e6c9c1591592752.jpg",广州南国都市频道
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=7a9302751803950aa7bee6994f477b11&txTime=19182c0a3f6
 #EXTINF:-1 tvg-name="CCTV10" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091921731943_14.png" group-title="Other",[BD]cctv10hd
 https://stream1.freetv.fun/cctv10hd-1.ctv
 #EXTINF:-1 tvg-name="CCTV10" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091921731943_14.png" group-title="Other",[BD]cctv10
