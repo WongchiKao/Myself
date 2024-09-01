@@ -40,6 +40,8 @@ https://stream1.freetv.fun/now-xin-wen-2.ctv
 https://stream1.freetv.fun/fei-cui-5.ctv
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="368366" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="Generic",[BD]翡翠
 https://stream1.freetv.fun/fei-cui-5.ctv
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="368366" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="Generic",[BD]翡翠
+https://stream1.freetv.fun/1c0223fe93d3aaca762184373a28af2c274b504a8af9798d4aa3d06c65de3260.ctv
 #EXTINF:-1 tvg-name="廣東珠江" tvg-id="" tvg-country="China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png" group-title="Generic",[BD]广东珠江
 https://stream1.freetv.fun/yan-dong-zhu-jiang-12.ctv
 #EXTINF:-1 tvg-name="TVBS新聞臺" tvg-id="" tvg-country="台湾" tvg-language="国語" tvg-logo="https://epg.pw/media/images/channel/2024/03/12/large/20240312220208325041_97.png" group-title="新聞",[HD]tvbs新闻
@@ -49,7 +51,7 @@ https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660e
 #EXTINF:-1 tvg-name="明珠台" tvg-id="368369" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721175931313789_88.png" group-title="電影",[BD]明珠
 https://stream1.freetv.fun/b805be4ead12b9db51ac0233d7fde0367602cd05ef2257a4d5700a47fd4338a4.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-id="368369" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721175931313789_88.png" group-title="電影",[BD]明珠
-https://stream1.freetv.fun/94d30760be1ed3b51cad3621fd2ac3d619fc2814fc9b90d29c64401f128aa640.ctv
+https://stream1.freetv.fun/8510a256b01aeda755761b35fddc4fbc4b3b5603dffa8b440d89b5bb3c6eaf7f.ctv
 #EXTINF:-1 tvg-name="明珠台" tvg-id="368369" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721175931313789_88.png" group-title="電影",[BD]明珠
 https://stream1.freetv.fun/02a84e717bde4c74530fa751aff6d340c4a1757f966a59bdc9f37751a121ce37.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Generic",[BD]cctv1
