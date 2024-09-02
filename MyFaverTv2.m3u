@@ -26,12 +26,6 @@ https://stream1.freetv.fun/f95e622d7916eb4d77ac12cf62e71e399a045145b96566f9e60ca
 https://stream1.freetv.fun/19b2f3a5cf9c512ecebaf294303107f4ea9f1b6542099c925143021f6b8e6c2c.m3u8
 #EXTINF:-1 tvg-name="鳳凰香港" tvg-id="368910" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="綜合",[BD]xf凤凰香港
 https://stream1.freetv.fun/e1644231721713c051c2fc895887664a873ccebf66ab24084ce5c424a3d8ee59.m3u8
-#EXTINF:-1 tvg-name="HOY資訊台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211913907119_40.png" group-title="新聞",[BD]hoy 资讯
-https://stream1.freetv.fun/hoy-zi-xun-2.ctv
-#EXTINF:-1 tvg-name="HOY資訊台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211913907119_40.png" group-title="新聞",[BD]hoy资讯
-https://stream1.freetv.fun/hoyzi-xun-1.ctv
-#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台频道",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/08/02/large/20240802033747168256_33.png" group-title="Generic",[SD]香港卫视
 https://stream1.freetv.fun/xiang-gang-wei-shi-1.ctv
 #EXTINF:-1 tvg-name="NOW 新聞臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171909234814_40.png" group-title="新聞",[HD]now 新闻
