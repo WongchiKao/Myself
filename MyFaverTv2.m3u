@@ -166,11 +166,13 @@ https://stream1.freetv.fun/c768ec2110a9e5e8f60193b5b1574d472e38f568e82e645755e76
 #EXTINF:-1 tvg-name="CHC動作電影" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="Movies",[BD]chc高清电影
 https://stream1.freetv.fun/767dcc9d40a2a2d1495876cb075cbe943af09f573536ed8d2d387493c20645bd.ctv
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="Movies",[BD]chc家庭影院
-https://stream1.freetv.fun/chcjia-ting-ying-yuan-3.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="Movies",[BD]chc-家庭影院
-https://stream1.freetv.fun/e3655a000db5126f9a98aa282fee8f053c896d178bb92ec36314b28ac4277f40.ctv
+https://stream1.freetv.fun/e1a2fbb0b1d50f86285035862649bd7cea0af358c3f3f65cfa7583273b5d960c.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="Movies",[BD]chc家庭影院
-https://stream1.freetv.fun/97d2b320724c5aa7db2fb8518a7cf4bc6c34718baac397da3d049e522c45abb0.m3u8
+https://stream1.freetv.fun/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="Movies",[BD]chc家庭影院[geo-blocked]
+https://stream1.freetv.fun/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e053724fa7b21a0b8e28bdeef696.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="Movies",[BD]chc家庭影院
+https://stream1.freetv.fun/chcjia-ting-ying-yuan-3.m3u8
 #EXTINF:-1 tvg-name="CHC影迷電影" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728161930253838_70.jpg" group-title="Movies",[BD]chc影迷电影
 https://stream1.freetv.fun/chcying-mi-dian-ying-2.ctv
 #EXTINF:-1 tvg-name="CHC影迷電影" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728161930253838_70.jpg" group-title="Movies",[HD]chc影迷电影[geo-blocked]
