@@ -11,7 +11,7 @@ https://t.freetv.fun/live/yan-zhou-xin-wen-6.php
 #EXTINF:-1 group-title="广东台" tvg-id="广州电视台法治频道" tvg-logo="http://tv.haoqu99.com/d/file/2019/1115/small2dc32ee498f65382d2fb9dab733c4c47.jpg",广州电视台法治频道
 https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=6d133e82b12055c11f9d50dab61aeb9d&txTime=19182c08de9
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="378823" tvg-country="China" tvg-language="China" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001827124534_66.png" group-title="Sports",[BD]cctv5
-https://t.freetv.fun/live/cctv5.m3u8
+https://t.freetv.fun/live/cctv5-10.php
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="378823" tvg-country="China" tvg-language="China" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001827124534_66.png" group-title="Sports",[BD]cctv5
 https://t.freetv.fun/live/cctv5-1.php
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="378823" tvg-country="China" tvg-language="China" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001827124534_66.png" group-title="Sports",[BD]cctv5
@@ -249,6 +249,7 @@ https://stream1.freetv.fun/chcying-mi-dian-ying-2.ctv
 https://stream1.freetv.fun/4ed9bd69d3244280f356ca9a1700aa05cb4ecbc8e8e431648a66431f2400dd0f.m3u8
 #EXTINF:-1 tvg-name="CHC影迷電影" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728161930253838_70.jpg" group-title="Movies",[BD]chc影迷电影
 https://stream1.freetv.fun/b32fceca8f554dc1936daba8c7e7c323323e238dfa907def1da34a5f5cfcb636.ctv
+
 
 
 
