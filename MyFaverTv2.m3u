@@ -22,6 +22,29 @@ https://t.freetv.fun/live/feng-huang-zhong-wen-2.m3u8
 https://t.freetv.fun/live/feng-huang-zhong-wen-3.m3u8
 #EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-id="368338" tvg-country="Hong Kong" tvg-language="Hong Kong" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128061049622730_55.png" group-title="Generic",[BD]凤凰卫视中文
 https://t.freetv.fun/live/feng-huang-wei-shi-zhong-wen.m3u8
+https://t.freetv.fun/live/han-guo-dian-ying-2.m3u8
+#EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-id="368338" tvg-country="Hong Kong" tvg-language="Hong Kong" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128061049622730_55.png" group-title="Generic",[VGA]凤凰中文
+https://t.freetv.fun/live/feng-huang-zhong-wen-4.php
+#EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-id="368338" tvg-country="Hong Kong" tvg-language="Hong Kong" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128061049622730_55.png" group-title="Generic",[BD]凤凰中文
+https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
+#EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-id="368338" tvg-country="Hong Kong" tvg-language="Hong Kong" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128061049622730_55.png" group-title="Generic",[BD]凤凰中文
+https://t.freetv.fun/live/feng-huang-zhong-wen-2.m3u8
+#EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-id="368338" tvg-country="Hong Kong" tvg-language="Hong Kong" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128061049622730_55.png" group-title="Generic",[BD]鳳凰衛視中文
+https://t.freetv.fun/live/feng-huang-wei-shi-zhong-wen.m3u8
+#EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-id="368338" tvg-country="Hong Kong" tvg-language="Hong Kong" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128061049622730_55.png" group-title="Generic",[BD]凤凰卫视中文
+https://t.freetv.fun/live/feng-huang-wei-shi-zhong-wen-2.m3u8
+#EXTINF:-1 tvg-name="鳳凰資訊HD" tvg-id="" tvg-country="Hong Kong" tvg-language="Hong Kong" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png" group-title="News",[BD]凤凰资讯
+https://t.freetv.fun/live/feng-huang-zi-xun.m3u8
+#EXTINF:-1 tvg-name="鳳凰資訊HD" tvg-id="" tvg-country="Hong Kong" tvg-language="Hong Kong" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png" group-title="News",[BD]鳳凰衛視資訊
+https://t.freetv.fun/live/feng-huang-wei-shi-zi-xun.m3u8
+#EXTINF:-1 tvg-name="鳳凰資訊HD" tvg-id="" tvg-country="Hong Kong" tvg-language="Hong Kong" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png" group-title="News",[BD]凤凰卫视资讯
+https://t.freetv.fun/live/feng-huang-wei-shi-zi-xun-1.m3u8
+#EXTINF:-1 tvg-name="鳳凰資訊HD" tvg-id="" tvg-country="Hong Kong" tvg-language="Hong Kong" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png" group-title="News",[BD]凤凰卫视资讯
+https://t.freetv.fun/live/feng-huang-wei-shi-zi-xun-1-1.m3u8
+#EXTINF:-1 tvg-name="鳳凰香港" tvg-id="" tvg-country="Hong Kong" tvg-language="Hong Kong" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="Generic",[VGA]凤凰香港
+https://t.freetv.fun/live/feng-huang-xiang-gang-1.php
+#EXTINF:-1 tvg-name="鳳凰香港" tvg-id="" tvg-country="Hong Kong" tvg-language="Hong Kong" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="Generic",[BD]鳳凰衛視香港
+https://t.freetv.fun/live/feng-huang-wei-shi-xiang-gang.m3u8
 #EXTINF:-1 tvg-name="CCTV 8K" tvg-id="" tvg-country="中國大陸" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055557713287_44.png" group-title="綜合",[BD]cctv-8k超高清
 https://t.freetv.fun/live/cctv-8kchao-gao-qing.m3u8
 #EXTINF:-1 tvg-name="CCTV 8K" tvg-id="" tvg-country="中國大陸" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055557713287_44.png" group-title="綜合",[BD]cctv-8k超高清
