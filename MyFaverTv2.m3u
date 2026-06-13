@@ -2,6 +2,38 @@
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=7a9302751803950aa7bee6994f477b11&txTime=19182c0a3f6
 #EXTINF:-1 group-title="广东台" tvg-id="广州电视台综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512042230403.jpg",广州电视台综合频道
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=234cace79a853922dd89c29a3823c470&txTime=191825e8b1d
+#EXTINF:-1 group-title="港台频道",凤凰中文
+http://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 group-title="港台频道",凤凰资讯
+http://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 group-title="港台频道",凤凰香港
+http://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 group-title="港台频道",Astro AOD
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 group-title="港台频道",Astro AEC
+https://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 group-title="港台频道",无线新闻
+http://cdn6.163189.xyz/163189/wxxw
+#EXTINF:-1 group-title="港台频道",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",NOW新闻
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 group-title="港台频道",CH5
+http://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 group-title="港台频道",CH8
+http://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 group-title="港台频道",CHU
+http://cdn6.163189.xyz/163189/chu
+#EXTINF:-1 group-title="港台频道",翡翠台
+https://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 group-title="港台频道",明珠台
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 group-title="港台频道",华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="港台频道",台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="港台频道",中视
+rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 group-title="央视频道",CCTV-1综合
 http://207.56.13.146:81/cdnlive/cctv1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2财经
@@ -138,38 +170,6 @@ http://207.56.13.146:81/cdnlive/sxws.m3u8
 http://207.56.13.146:81/cdnlive/qhws.m3u8
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
 http://207.56.13.146:81/cdnlive/nxws.m3u8
-#EXTINF:-1 group-title="港台频道",凤凰中文
-http://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 group-title="港台频道",凤凰资讯
-http://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 group-title="港台频道",凤凰香港
-http://cdn6.163189.xyz/163189/fhhk
-#EXTINF:-1 group-title="港台频道",Astro AOD
-https://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 group-title="港台频道",Astro AEC
-https://o11.163189.xyz/stream/live/aec/
-#EXTINF:-1 group-title="港台频道",无线新闻
-http://cdn6.163189.xyz/163189/wxxw
-#EXTINF:-1 group-title="港台频道",TVBS亚洲
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="港台频道",NOW新闻
-http://cdn.163189.xyz/163189/now
-#EXTINF:-1 group-title="港台频道",CH5
-http://cdn6.163189.xyz/163189/ch5
-#EXTINF:-1 group-title="港台频道",CH8
-http://cdn6.163189.xyz/163189/ch8
-#EXTINF:-1 group-title="港台频道",CHU
-http://cdn6.163189.xyz/163189/chu
-#EXTINF:-1 group-title="港台频道",翡翠台
-https://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1 group-title="港台频道",明珠台
-https://o11.163189.xyz/stream/tvb/mzt/
-#EXTINF:-1 group-title="港台频道",华视
-rtmp://f13h.mine.nu/sat/tv111
-#EXTINF:-1 group-title="港台频道",台视
-rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1 group-title="港台频道",中视
-rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 group-title="港台频道",纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 group-title="港台频道",纬来体育
